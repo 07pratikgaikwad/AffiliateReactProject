@@ -1,0 +1,6 @@
+POST /Api/Country/GetCountryList HTTP/1.1
+Host: localhost:51923
+Content-Type: application/json
+UserName: WelcomeWebApi
+Password: welcomecure123
+Authorization: Basic WDVPMFgxSDIwSWo3WjI2WXJhanowZGFpcmNpczczbnk3MjNmYzlUM3U3WktaTnZIaW5WbmNTbWt0V1FuM3BYQTdUd1hWZ2d6ckNkOlRVakxoTzVqNGFOM1V0bzYydDkzaHZ5ZDlNNktEUg==
